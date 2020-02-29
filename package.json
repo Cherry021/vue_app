@@ -1,0 +1,10 @@
+{
+    "name": "vue-app",
+    "version": "0.1.0",
+    "scripts": {
+      "start": "browser-sync start --server 'src' --files 'src' --single"
+    },
+    "devDependencies": {
+      "browser-sync": "^2.26.7"
+    }
+  }
